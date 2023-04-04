@@ -1,0 +1,27 @@
+{
+  "name": "strife",
+  "version": "1.0.0",
+  "description": "Bot discord \"Strife\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/STARV3C/Strife.git"
+  },
+  "keywords": [
+    "Node.js",
+    "JavaScript"
+  ],
+  "author": "STARVEC#7976",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/STARV3C/Strife/issues"
+  },
+  "homepage": "https://github.com/STARV3C/Strife#readme",
+  "dependencies": {
+    "discord.js": "^14.9.0",
+    "react": "^16.14.0"
+  }
+}
